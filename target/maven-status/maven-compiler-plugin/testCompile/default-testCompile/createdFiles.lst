@@ -1,0 +1,8 @@
+com\restassuredserenity\junit\GetCountryByNameTest.class
+com\restassuredserenity\utils\ReUsableSpecifications.class
+com\restassuredserenity\serenitysteps\GetCountrySteps.class
+com\restassuredserenity\cucumber\steps\CountrySteps.class
+com\restassuredserenity\junit\VerifyLoginTest.class
+com\restassuredserenity\utils\UtilitiesClass.class
+com\restassuredserenity\junit\GetSample.class
+com\restassuredserenity\junit\PostCustomerRegistrationTest.class

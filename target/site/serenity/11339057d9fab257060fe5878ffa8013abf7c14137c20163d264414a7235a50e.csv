@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Get country by name test","Assignment 2: Verifying capital of Oslo","SUCCESS","2020-05-07T09:58:24.409-06:00[America/Denver]","0.0","9.09"
+"Get country by name test","Assignment 1: Verifying 404 Not found","SUCCESS","2020-05-07T09:58:33.915-06:00[America/Denver]","0.0","0.34"
+"Get country by name test","Assignment 1: Verifying Republic of India ","SUCCESS","2020-05-07T09:58:34.31-06:00[America/Denver]","0.0","0.42"
